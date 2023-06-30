@@ -3,7 +3,7 @@
   <h1 style="font-size: 3.5rem; font-weight: bold;">👋 Hello, We're TheCodingTrio! </h1>
 </div
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="170" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="170" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 
 
