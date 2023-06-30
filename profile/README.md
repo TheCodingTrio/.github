@@ -13,7 +13,7 @@
 
 - 👯 We are looking to collaborate on **Java Based Projects**
 
-- 📫 How to reach us **kodithuwakkuyeran@gmail.com**
+- 📫 How to reach us **kodithuwakkuyeran@gmail.com ydewmin@gmail.com**
 
 - ⚡ Fun fact: **Did you know that the term "bug" to describe a software defect originated from an actual insect? In 1947, while working on the Harvard Mark II computer, computer scientist Grace Hopper discovered a moth trapped between the relays of the machine, causing a malfunction. She humorously wrote in her logbook, "First actual case of bug being found." The term "bug" caught on and has been widely used ever since to refer to software issues or defects. So, the next time you encounter a bug in your code, you can thank a literal bug for the inspiration!**
 
