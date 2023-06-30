@@ -5,7 +5,7 @@
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="170" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21440236&label=Profile%20views&color=0e75b6&style=flat" alt="it21440236" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21440236" alt="it21440236" /></a> </p>
 
@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21440236&show_icons=true&locale=en&layout=compact" alt="it21440236" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21440236&show_icons=true&locale=en" alt="it21440236" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21440236&" alt="it21440236" /></p>
