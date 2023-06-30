@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21440236" alt="it21440236" /></a> </p>
 
-- 🔭 We are currently working on [Builiding Pat Projects](https://github.com/orgs/S-Y-org/repositories)
+- 🔭 We are currently working on [Builiding Pat Projects](https://github.com/TheCodingTrio)
 
 - 👯 We are looking to collaborate on **Java Based Projects**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yeran-kods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yeran-kods/" height="30" width="40" /></a>
-  <a href="in/savi-saluwadana-3911331b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/savi-saluwadana-3911331b2" height="30" width="40" /></a>
-  <a href="in/yasitha-dewmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasitha-dewmin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yeran-kods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yeran Kodithuwakku" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/savi-saluwadana-3911331b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/savi-saluwadana-3911331b2" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yasitha-dewmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/yasitha-dewmin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
